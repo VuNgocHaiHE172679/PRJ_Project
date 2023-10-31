@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/web/productList.jsp</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/cart.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/authentication/AdmSignIn.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/DAO/CategoryDAO.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/DAO/CartDAO.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/DAO/ProductDAO.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/ManagerCategoryController.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/authentication/LogOut.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/updateProduct.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/DAO/DAO.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/authentication/Register.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/EditCategoryController.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/ProductList.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/DAO/OrderDAO.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/authentication/SignIn.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/AddProduct.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/forgetPasswordController.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/AddCategoryController.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/ProfileController.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Model/Cart.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/Controller/LoadCategoryController.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/web/signIn.jsp</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/src/java/DAO/AccountDAO.java</file>
+            <file>file:/D:/Ky_4/SP_ki_4/ASSGN_PRJ_Ban_quan_ao/ASSGN_PRJ_Ban_quan_ao/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
